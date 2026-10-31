@@ -29,9 +29,13 @@ entrega pierde el 20 %; quien no aparezca aquí no cuenta como parte del grupo.
 
 | Nombre completo | Código | Correo institucional |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Francisco Amariles | 22505523 | francisco.amariles@uao.edu.co |
+| Jean Pierre Henriquez | 22505892 | jean.henriquez@uao.edu.co |
+
+
+**Serie del grupo:** uso mensual de tarjetas débito en Islandia, 2000-01 a
+2013-08 (164 meses). Ficha en [`datos/README.md`](datos/README.md) e informe en
+[`docs/informe.md`](docs/informe.md).
 
 ## Entrega
 
