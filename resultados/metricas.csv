@@ -1,0 +1,5 @@
+modelo,decision,RMSE,MAE,MAPE
+"SARIMAX(2, 1, 0)(0, 1, 1, 12) + exógenas",Huecos: interpolación lineal (la serie no trae ninguno); atípicos (residuo STL > 3 MAD) se conservan por ser reales,0.64,0.54,2.56
+"SARIMA(2, 1, 0)(0, 1, 1, 12)",Huecos: interpolación lineal (la serie no trae ninguno); atípicos (residuo STL > 3 MAD) se conservan por ser reales,0.78,0.61,2.92
+estacional ingenuo,Huecos: interpolación lineal (la serie no trae ninguno); atípicos (residuo STL > 3 MAD) se conservan por ser reales,1.23,1.1,5.17
+ingenuo,Huecos: interpolación lineal (la serie no trae ninguno); atípicos (residuo STL > 3 MAD) se conservan por ser reales,3.23,2.69,12.31
